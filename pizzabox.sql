@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le :  Dim 31 mai 2020 à 10:58
+-- Généré le :  Dim 31 mai 2020 à 11:01
 -- Version du serveur :  10.4.10-MariaDB
 -- Version de PHP :  7.3.12
 
@@ -209,23 +209,7 @@ INSERT INTO `t_pizza` (`id`, `DesignPizz`, `TarifPizz`, `description`, `image`) 
 (15, 'La camenbert', '45.00', '', '15.png'),
 (16, 'saumon', '27.00', '', '16.png'),
 (17, 'saumon fumé ', '37.50', '', '3.jpg'),
-(18, 'saumon fumé new', '120.00', '', '15.jpg'),
-(507, 'dddTestAA', '12.00', 'ezdds', 'Capture2.PNG'),
-(506, 'dsdsq', '12.00', 'azerty', 'Capture2.PNG'),
-(505, 'testss', '12.00', 'rede', 'C:\\Users\\Bmlaghui\\Pictures\\tÃ©lÃ©chargement.jpg'),
-(504, 'pppp', '3.00', 'rtyj', 'C:\\Users\\Bmlaghui\\Pictures\\Image1.png'),
-(503, 'test01', '12.00', 'jhg', 'Image1.png'),
-(502, 'test', '12.00', 'teet', 'Capture2.PNG'),
-(515, 'dddTestAA', '100.00', 'ezdds', NULL),
-(519, 'jamel', '12.00', 'yuiop', 'IMG_0018.PNG'),
-(520, 'err', '23.00', 'rggvg', 'C:\\Users\\Bmlaghui\\Pictures\\iCloud Photos\\Downloads\\IMG_0005.jpg'),
-(521, 'zabrat', '12.00', '12e seulement', 'C:\\Users\\Bmlaghui\\Pictures\\iCloud Photos\\Downloads\\IMG_0020.JPG'),
-(522, 'falfoul', '11.00', 'tayara', 'C:\\Users\\Bmlaghui\\Pictures\\iCloud Photos\\Downloads\\IMG_0012.jpg'),
-(523, 'azertyxdex', '22.00', 'ytgrf', ''),
-(524, 'dddTestAA', '12.00', 'sdxedxd', ''),
-(525, 'testpizza', '10.00', 'delicious', 'C:\\Users\\Bmlaghui\\Pictures\\iCloud Photos\\Downloads\\IMG_0001.JPG'),
-(526, 'dddTestAA', '12.00', 'yuiop', ''),
-(527, 'cokur', '11.00', 'delicious', '');
+(18, 'saumon fumé new', '120.00', '', '15.jpg');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
