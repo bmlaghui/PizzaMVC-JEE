@@ -1,0 +1,25 @@
+.thumbnail{
+            height: 250px;
+            margin-bottom: 50px;
+			wi
+        }
+
+        .button {
+            background-color:gray ;
+            color: white;
+        }
+
+        .button:hover {
+          background-color: darkgray; 
+        }
+
+        .zoom{
+         -webkit-transform: scale(1);
+         transform: scale(1);
+         -webkit-transition: .3s ease-in-out;
+         transition: .3s ease-in-out;
+        }
+        .zoom:hover{
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        }
